@@ -1,0 +1,9 @@
+{
+	"name":"Barsik",
+	"age":5,
+	"owner":"Vasilii",
+	"breed":"Mixed",
+	"diet":["fish","whiskas","milk"],
+	"isLoved":true
+
+}
